@@ -1,0 +1,2 @@
+﻿Đây là file ghi chú:
+22/10/22 - tạo repo, tạo project, push github
