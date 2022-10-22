@@ -16,7 +16,7 @@ namespace Quan_ly_hoc_sinh_cap_3
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Main());
+            Application.Run(new Form1());
         }
     }
 }

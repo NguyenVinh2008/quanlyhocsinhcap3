@@ -31,8 +31,8 @@ namespace Quan_ly_hoc_sinh_cap_3
         {
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(1366, 768);
+            this.Text = "Phan mem quan ly hoc sinh cap 3";
         }
 
         #endregion
