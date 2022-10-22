@@ -1,7 +1,7 @@
 ﻿
 namespace Quan_ly_hoc_sinh_cap_3
 {
-    partial class Form1
+    partial class Main
     {
         /// <summary>
         /// Required designer variable.
